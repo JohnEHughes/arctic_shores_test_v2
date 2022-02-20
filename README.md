@@ -1,4 +1,4 @@
-<h2>Arctic SHores Tech Test v2</h2>
+<h2>Arctic Shores Tech Test v2</h2>
 This is my second version to answer the tech test. In this version I have set up a Django REST framework and created two endpoints:
 create-candidate
 create-score
