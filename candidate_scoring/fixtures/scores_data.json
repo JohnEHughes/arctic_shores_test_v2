@@ -1,0 +1,10 @@
+[
+  {
+    "candidate_ref": "abcdef12",
+        "score": 35
+  },
+  {
+        "candidate_ref": "ghijkl34",
+    "score": 32
+  }
+]
